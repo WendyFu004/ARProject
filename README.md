@@ -1,9 +1,4 @@
 # ARProject
-COMP 475 Assigngmant2  
-
-Option 1: Interactive AR application 
-
-Place open ARScaleBar in the scene folder to open the assigngment!!
 
 ## Features: 
 - Placement of objects. The user can place a 3D mug on flat surfaces detected in the scene by using the 
